@@ -9,6 +9,7 @@ public class Matija {
 		System.out.println("Bok");
 		
 		//bobobobo
+		String matek;
 		
 	}
 }

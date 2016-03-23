@@ -10,6 +10,7 @@ public class Matija {
 		
 		//bobobobo
 		String matek;
+		int dva;
 		String book;
 	}
 }
